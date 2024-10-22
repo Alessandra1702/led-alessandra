@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="function_definition" id="#N83U@!$:ih_:qz7h,`R" x="0" y="0"><mutation name="sinalizar" functionid="tisp@e|Q-dRSPhOl)#5C"></mutation><field name="function_name">sinalizar</field><statement name="STACK"><block type="device_show_leds" id="~onay8!/.4kr[)ivUTOE"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id=";9RTAWL4z*FP.|.O0*Oh"></block></next></block></statement></block></xml>
